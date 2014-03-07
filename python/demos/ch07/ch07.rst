@@ -1,2 +1,18 @@
 ch07
 ========================================
+
+surfaceFitDemo
+----------------------------------------
+.. image:: surfaceFitDemo_linear.png
+.. image:: surfaceFitDemo_quadratic.png
+.. literalinclude:: surfaceFitDemo.py
+
+residualsDemo
+----------------------------------------
+.. image:: residualsDemo.png
+.. literalinclude:: residualsDemo.py
+
+contoursSSEdemo
+----------------------------------------
+.. image:: contoursSSEdemo.png
+.. literalinclude:: contoursSSEdemo.py

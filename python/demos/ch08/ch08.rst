@@ -1,2 +1,11 @@
 ch08
 ========================================
+
+steepestDescentDemo
+----------------------------------------
+.. literalinclude:: steepestDescentDemo.py
+
+sigmoidplot2D
+----------------------------------------
+.. image:: sigmoidplot2D.png
+.. literalinclude:: sigmoidplot2D.py
